@@ -1,0 +1,1 @@
+export const hello = () => 'Olá 1';
